@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "mathform"
+    }
+  },
+  "defaultProject": "mathform",
+  "cli": {
+    "analytics": "02500d84-af32-4608-8a39-905f29dd9513"
+  }
 }
